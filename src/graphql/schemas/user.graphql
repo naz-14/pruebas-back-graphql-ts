@@ -1,5 +1,5 @@
 type Query {
-    getAllUsers: [User]
+    Users: [User]
 }
 type Mutation {
     createUser(input: UserInput!): User

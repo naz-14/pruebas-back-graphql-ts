@@ -1,7 +1,7 @@
-import { Resolvers } from "./generated";
+import { Resolvers } from './generated';
 import { merge } from 'lodash';
-import UserResolver from "./resolvers/UserResolver";
+import UserResolver from './resolvers/UserResolver';
 
-const resolversMap: Resolvers = merge(UserResolver)
+const resolversMap: Resolvers = merge(UserResolver);
 
-export default resolversMap
+export default resolversMap;

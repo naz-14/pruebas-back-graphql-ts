@@ -21,6 +21,7 @@
     "graphql-tools": "^8.1.0",
     "lodash": "^4.17.21",
     "mysql2": "^2.3.0",
+    "prettier": "^2.3.2",
     "sequelize": "^6.6.5",
     "typecript": "^0.0.1-security"
   },
